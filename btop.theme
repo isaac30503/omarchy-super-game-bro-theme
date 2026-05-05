@@ -1,0 +1,86 @@
+# Super Game Bro - btop theme
+# Paleta Game Boy DMG: 4 tonos de verde
+
+# Main background
+theme[main_bg]="#214130"
+
+# Main text color
+theme[main_fg]="#88A827"
+
+# Title color for boxes
+theme[title]="#9CB827"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#B8D432"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#416828"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#9CB827"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#416828"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#699020"
+
+# Background color of the percentage meters
+theme[meter_bg]="#0D2A1A"
+
+# Misc colors for processes box
+theme[proc_misc]="#88A827"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#9CB827"
+theme[mem_box]="#88A827"
+theme[net_box]="#699020"
+theme[proc_box]="#416828"
+
+# Box divider line and small boxes line color
+theme[div_line]="#416828"
+
+# Temperature graph color (frio=verde claro -> caliente=oliva oscuro)
+theme[temp_start]="#9CB827"
+theme[temp_mid]="#88A827"
+theme[temp_end]="#699020"
+
+# CPU graph colors (oscuro -> brillante)
+theme[cpu_start]="#416828"
+theme[cpu_mid]="#88A827"
+theme[cpu_end]="#B8D432"
+
+# Mem/Disk free meter
+theme[free_start]="#0D2A1A"
+theme[free_mid]="#416828"
+theme[free_end]="#88A827"
+
+# Mem/Disk cached meter
+theme[cached_start]="#416828"
+theme[cached_mid]="#699020"
+theme[cached_end]="#88A827"
+
+# Mem/Disk available meter
+theme[available_start]="#88A827"
+theme[available_mid]="#9CB827"
+theme[available_end]="#B8D432"
+
+# Mem/Disk used meter
+theme[used_start]="#699020"
+theme[used_mid]="#88A827"
+theme[used_end]="#9CB827"
+
+# Download graph colors
+theme[download_start]="#416828"
+theme[download_mid]="#88A827"
+theme[download_end]="#B8D432"
+
+# Upload graph colors
+theme[upload_start]="#0D2A1A"
+theme[upload_mid]="#416828"
+theme[upload_end]="#88A827"
+
+# Process box color gradient
+theme[process_start]="#416828"
+theme[process_mid]="#699020"
+theme[process_end]="#9CB827"
